@@ -6,7 +6,7 @@ The live site can be seen on this link : https://www.elysian-edc.com/
 
 ![mainpg](./collage.jpg)
 
-![mainpg](./Screenshot(39).png)
+![mainpg](./main.png)
 
 
 
